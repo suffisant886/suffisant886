@@ -1,10 +1,6 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![](https://github-readme-stats.vercel.app/api?username=suffisant886&show_icons=true&theme=tokyonight)
+### Hi there,I’m @suffisant886 👋
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=suffisant886&show_icons=true&include_all_commits=true)](https://github.com/suffisant886/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suffisant886&layout=compact)](https://github.com/suffisant886/github-readme-stats)
-
-
-- 👋 Hi, I’m @suffisant886
 - 👀 I’m interested in Web
 - 🌱 I’m currently learning Node
 - 📫 How to reach me 油炸苹果圈
