@@ -3,7 +3,7 @@
 ### Hi there,I’m @suffisant886 👋
 
 - 👀 I’m interested in Web
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently learning ~~~
 - 📫 How to reach me 油炸苹果圈
 <!---
 suffisant886/suffisant886 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
